@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 025f0baf61201114f8d3c0c5969a492c, type: 3}
+  m_Name: SpawnThunder
+  m_EditorClassIdentifier: 
+  AttackMethodName: SpawnThunder
+  AttackSprite: {fileID: 21300000, guid: fa7c7ae2221547d47b767b2ea6b805b1, type: 3}
+  CooldownTime: 0.1
+  Damage: 90
+  DelayTilDamage: 0
+  loadable: 0
+  maxLoadTime: 0
+  achieved: 1
+  AchievementLevel: 0
+  knockback: 0
+  StaminaUsage: 0

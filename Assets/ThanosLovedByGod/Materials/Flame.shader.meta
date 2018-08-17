@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 6feac3a8096b0894b84639f97c20e285
+timeCreated: 1533941096
+licenseType: Free
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _node_142: {fileID: 2800000, guid: 2d80632687883b54da1c8994580d45bb, type: 3}
+  - _FlameMask: {fileID: 2800000, guid: 81958387a3bf97041aeeaa3a89741b0d, type: 3}
+  - _NoiseTex: {fileID: 2800000, guid: 28c7aad1372ff114b90d330f8a2dd938, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

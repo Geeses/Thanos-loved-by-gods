@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/ThanosLovedByGod/Scenes/MainMenu.unity
+    guid: e1334bdbe576a2840a3cc5f61ac26eb6
+  - enabled: 1
+    path: Assets/ThanosLovedByGod/Scenes/Cutscenes/New Game.unity
+    guid: 9301b4f5be30ff941b89257547acbaa2
+  - enabled: 1
+    path: Assets/ThanosLovedByGod/Scenes/Final Final/tutorial(1)(1).unity
+    guid: 4e5373660de7d3a4ebe4094c1a69850d
+  - enabled: 1
+    path: Assets/ThanosLovedByGod/Scenes/Cutscenes/After Tutorial.unity
+    guid: f920580cf852e134cb8a99a25442fa04
+  - enabled: 1
+    path: Assets/ThanosLovedByGod/Scenes/Final Final/WaldLevel(1)(1).unity
+    guid: d738844f33374bb42832315f9d4fa87b
+  - enabled: 1
+    path: Assets/ThanosLovedByGod/Scenes/Cutscenes/After Wald.unity
+    guid: a0ba06198b31a8d418a6916480ed604c
+  - enabled: 1
+    path: Assets/ThanosLovedByGod/Scenes/Final Final/TempleLevel(2).unity
+    guid: 446b879a0009f8d488d7dc4cab77479b
+  - enabled: 1
+    path: Assets/ThanosLovedByGod/Scenes/Cutscenes/After Mountain.unity
+    guid: 7f4dee2f0a8db3849822aeedd17f7885
+  - enabled: 1
+    path: Assets/ThanosLovedByGod/Scenes/Final Final/SnowLevel(1)(1).unity
+    guid: be7d5983a11032f4a9c3028400f17f5c
+  - enabled: 1
+    path: Assets/ThanosLovedByGod/Scenes/Cutscenes/After Schnee.unity
+    guid: dca7055965d13f247a6f00b1e3722245

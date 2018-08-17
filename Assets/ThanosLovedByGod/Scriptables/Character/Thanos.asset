@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3de4f12bc8eafbc4e8eed8e8941ddca9, type: 3}
+  m_Name: Thanos
+  m_EditorClassIdentifier: 
+  name: Thanos
+  level: 1
+  health: 100
+  attackDamage: 9
+  attackSpeed: 0
+  movementSpeed: 10
+  CooldownTime: 0
+  jumpPower: 600
+  knockback: 10
+  stamina: 100
+  DefaultHealth: 100
+  DefaultAttackDamage: 9
+  DefaultAttackSpeed: 0
+  DefaultMovementSpeed: 10
+  DefaultDamageDelayTime: 0
+  DefaultJumpPower: 600
+  DefaultStamina: 100

@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Thanos
+  - Shield
+  - ThanosSword
+  - PauseMenu
+  - Zeus
+  - CursorCollider
+  - ThunderSpawn
+  - Interactables
+  - Stone
+  - Gegner
+  - Coin
+  - Arrow
+  - ParentStone
+  - Ogre
+  - Sloth
+  - ChickenMan
+  - Door
+  - ToFlip
+  - Collectable
+  - Cursor
+  - Movables
+  - Enemy
+  - Tilemap
+  - Gate
+  - Thunder
+  - Rechtsbox
+  - LinksBox
+  - SpikeTrap
+  - Tornado
+  - NewGame
+  - Options
+  - Exit
+  - TempleLevel
+  - WaldLevel
+  - SchneeLevel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Cursor
+  - TriggerLayer
+  - TornadoLayer
+  - Player
+  - Arrow
+  - OnlyCollideWithPlayer
+  - DoNotCollideWithPlayer
+  - Enemy
+  - Stone
+  - Thunder
+  - GrabbedStone
+  - Button
+  - Shield
+  - OnlyCollideWithShield
+  - Reflect
+  - TornadoTriggerLayer
+  - Lighting
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: RearBackground
+    uniqueID: 3471336567
+    locked: 0
+  - name: Background
+    uniqueID: 2515838567
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 3585170587
+    locked: 0
+  - name: Cursor
+    uniqueID: 1246188541
+    locked: 0
+  - name: Menu
+    uniqueID: 2117232225
+    locked: 0
