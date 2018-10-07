@@ -6,27 +6,13 @@ using UnityEngine.SceneManagement;
 
 public class Menucursor : MonoBehaviour
 {
-    private int playerID = 0;
-    private Player player;
+    private int player1 = 0;
+	private int player2 = 1;
+    private Player player_one;
+	private Player player_two;
     private Rigidbody2D rbb;
     private Vector2 moveCursor;
-    private MenuManager mangae;
-    public GameObject Pausenmenü;
     public MainMenuScritable menu;
-	public Sprite[] sprites;
-/*	public GameObject waldg;
-	public GameObject tempelg;
-	public GameObject bergg;
-	public GameObject bogeng;
-	public GameObject gebaeudeg;
-	public GameObject bogeng1;
-	private SpriteRenderer wald;
-	private SpriteRenderer tempel;
-	private SpriteRenderer berg;
-	private SpriteRenderer bogen;
-	private SpriteRenderer gebeaude;
-	private SpriteRenderer bogen1;
-*/
 
     public float cursorSpeed;
     // Use this for initialization
@@ -39,33 +25,33 @@ public class Menucursor : MonoBehaviour
 		gebeaude = gebaeudeg.GetComponent<SpriteRenderer> ();
 		bogen1 = bogeng1.GetComponent<SpriteRenderer> ();
 */
-		player = ReInput.players.GetPlayer(playerID);
+		player_one = ReInput.players.GetPlayer(player1);
+	    player_two = ReInput.players.GetPlayer(player2);
         rbb = GetComponent<Rigidbody2D>();
-        mangae = GameObject.Find("MenuManager").GetComponent<MenuManager>();
-        
     }
 
-    // Update is called once per frame
     void Update()
     {
-		
         cursorSpeed = menu.cursorspeed;
-                    if (Pausenmenü.activeInHierarchy == false)
-        {
-            Eventclick();
-            moveCursor.x = player.GetAxis("CursorHorizontal");
-            moveCursor.y = player.GetAxis("CursorVertical");
-            MoveCursor();
-        }
+        Eventclick();
     }
-    private void MoveCursor()
+
+	private void FixedUpdate()
+	{
+		
+		moveCursor.x = player_one.GetAxis("CursorHorizontal") + player_two.GetAxis("CursorHorizontal");
+		moveCursor.y = player_one.GetAxis("CursorVertical") + player_two.GetAxis("CursorVertical");
+		MoveCursor();
+	}
+
+	private void MoveCursor()
     {
         rbb.velocity = new Vector2(moveCursor.x * cursorSpeed, moveCursor.y * cursorSpeed); // Geschwindigkeit auf RB übertragen
     }
     
     public void Eventclick()
     {
-		if (player.GetButtonDown ("selectMenuPoint")) {
+		if (player_one.GetButtonDown ("selectMenuPoint") || player_two.GetButtonDown ("selectMenuPoint")) {
         
             
 
@@ -74,7 +60,7 @@ public class Menucursor : MonoBehaviour
 
 
 			switch (hit.collider.tag){
-
+	
 		case "NewGame":
 			
 				NewGame();
@@ -117,7 +103,7 @@ public class Menucursor : MonoBehaviour
     public void Settings()
     {
 
-        Pausenmenü.SetActive(true);
+        //Pausenmenü.SetActive(true);
     }
     public void ExitGame()
     {

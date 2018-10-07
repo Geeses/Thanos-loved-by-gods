@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a119abf8-3b0d-4544-bdc5-4a81f8d40d4d" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Menucursor.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Menucursor.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="5" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OgreAnimationScript.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ThanosLovedByGod/script/OgreAnimationScript.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1534293607576" expanded="false" signature="6:78" ph="..." />
+                <marker date="1534293607576" expanded="true" signature="128:792" ph="{...}" />
+                <marker date="1534293607576" expanded="true" signature="292:477" ph="{...}" />
+                <marker date="1534293607576" expanded="true" signature="511:545" ph="{...}" />
+                <marker date="1534293607576" expanded="true" signature="573:617" ph="{...}" />
+                <marker date="1534293607576" expanded="true" signature="640:732" ph="{...}" />
+                <marker date="1534293607576" expanded="true" signature="762:790" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DamageValue.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ThanosLovedByGod/script/DamageValue.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2745">
+              <caret line="185" column="28" lean-forward="false" selection-start-line="185" selection-start-column="28" selection-end-line="185" selection-end-column="28" />
+              <folding>
+                <marker date="1533905252204" expanded="false" signature="6:78" ph="..." />
+                <marker date="1533905252204" expanded="true" signature="120:5914" ph="{...}" />
+                <marker date="1533905252204" expanded="true" signature="741:779" ph="{...}" />
+                <marker date="1533905252204" expanded="true" signature="823:864" ph="{...}" />
+                <marker date="1533905252204" expanded="true" signature="891:1282" ph="{...}" />
+                <marker date="1533905252204" expanded="true" signature="916:1083" ph="{...}" />
+                <marker date="1533905252204" expanded="true" signature="1104:1276" ph="{...}" />
+                <marker date="1533905252204" expanded="true" signature="1320:1404" ph="{...}" />
+                <marker date="1533905252204" expanded="true" signature="1430:1448" ph="{...}" />
+                <marker date="1533905252204" expanded="true" signature="1568:3112" ph="{...}" />
+                <marker date="1533905252204" expanded="true" signature="1593:1760" ph="{...}" />
+                <marker date="1533905252204" expanded="true" signature="1781:1934" ph="{...}" />
+                <marker date="1533905252204" expanded="true" signature="2106:3103" ph="{...}" />
+                <marker date="1533905252204" expanded="true" signature="3144:3834" ph="{...}" />
+                <marker date="1533905252204" expanded="true" signature="3219:3828" ph="{...}" />
+                <marker date="1533905252204" expanded="true" signature="3598:3691" ph="{...}" />
+                <marker date="1533905252204" expanded="true" signature="3709:3818" ph="{...}" />
+                <marker date="1533905252204" expanded="true" signature="4028:4254" ph="{...}" />
+                <marker date="1533905252204" expanded="true" signature="4385:4605" ph="{...}" />
+                <marker date="1533905252204" expanded="true" signature="4638:4677" ph="{...}" />
+                <marker date="1533905252204" expanded="true" signature="4683:4726" ph="/* Collisions: ... */" />
+                <marker date="1533905252204" expanded="true" signature="4783:5869" ph="{...}" />
+                <marker date="1533905252204" expanded="true" signature="4865:5236" ph="{...}" />
+                <marker date="1533905252204" expanded="true" signature="4910:5226" ph="{...}" />
+                <marker date="1533905252204" expanded="true" signature="5316:5863" ph="{...}" />
+                <marker date="1533905252204" expanded="true" signature="5362:5852" ph="{...}" />
+                <marker date="1533905252204" expanded="true" signature="5455:5684" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpriteMeshPostprocessor.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Tools/Anima2D/Scripts/Editor/SpriteMeshPostprocessor.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="420" column="0" lean-forward="false" selection-start-line="420" selection-start-column="0" selection-end-line="420" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Smorc.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ThanosLovedByGod/script/Smorc.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="27" column="18" lean-forward="false" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+              <folding>
+                <marker date="1534294581381" expanded="false" signature="6:78" ph="..." />
+                <marker date="1534294581381" expanded="true" signature="115:5356" ph="{...}" />
+                <marker date="1534294581381" expanded="true" signature="1576:2458" ph="{...}" />
+                <marker date="1534294581381" expanded="true" signature="2099:2398" ph="{...}" />
+                <marker date="1534294581381" expanded="true" signature="2146:2388" ph="/* if ((Time.time - jumpbuffer) &gt; jumpcd) // wenn Zeit seit letztem Sprung den Jumpcd nicht unterschreitet ... */" />
+                <marker date="1534294581381" expanded="true" signature="2475:2834" ph="{...}" />
+                <marker date="1534294581381" expanded="true" signature="2861:3428" ph="{...}" />
+                <marker date="1534294581381" expanded="true" signature="3453:4401" ph="{...}" />
+                <marker date="1534294581381" expanded="true" signature="3866:4326" ph="{...}" />
+                <marker date="1534294581381" expanded="true" signature="4339:4395" ph="{...}" />
+                <marker date="1534294581381" expanded="true" signature="4420:4651" ph="{...}" />
+                <marker date="1534294581381" expanded="true" signature="4466:4645" ph="{...}" />
+                <marker date="1534294581381" expanded="true" signature="4708:4950" ph="{...}" />
+                <marker date="1534294581381" expanded="true" signature="4956:5182" ph="/* private void OnTriggerEnter2D(Collider2D collision) ... */" />
+                <marker date="1534294581381" expanded="true" signature="5218:5354" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>frame</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/ThanosLovedByGod/script/ArrowPath.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThanosLovedByGod/script/AttackController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThanosLovedByGod/script/animationsoundevents.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThanosLovedByGod/script/OgreAnimationScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThanosLovedByGod/script/BowRotateScript.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThanosLovedByGod/script/Smorc.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThanosLovedByGod/script/Ogre_Atack.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tools/Anima2D/Scripts/SpriteMeshInstance.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThanosLovedByGod/script/EnemyStats.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Menucursor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tools/Anima2D/Scripts/Editor/TextureEditorWindow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThanosLovedByGod/script/Attack_ScriptableObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThanosLovedByGod/script/DamageValue.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tools/Anima2D/Scripts/SpriteMeshAnimation.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Tools/Anima2D/Scripts/SpriteMeshAnimation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Menucursor.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="301" />
+    <option name="y" value="130" />
+    <option name="width" value="1241" />
+    <option name="height" value="780" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Loading solution..." type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a119abf8-3b0d-4544-bdc5-4a81f8d40d4d" name="Default" comment="" />
+      <created>1534513513317</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534513513317</updated>
+      <workItem from="1534513519498" duration="77000" />
+      <workItem from="1534513776486" duration="63000" />
+      <workItem from="1534513861162" duration="38000" />
+      <workItem from="1537955620555" duration="885000" />
+      <workItem from="1538003381002" duration="3158000" />
+      <workItem from="1538007929956" duration="27000" />
+      <workItem from="1538135999367" duration="3012000" />
+      <workItem from="1538319597473" duration="979000" />
+      <workItem from="1538816083865" duration="4000" />
+      <workItem from="1538816216990" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8247000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Menucursor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="5" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ThanosLovedByGod/script/OgreAnimationScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1534293607576" expanded="false" signature="6:78" ph="..." />
+            <marker date="1534293607576" expanded="true" signature="128:792" ph="{...}" />
+            <marker date="1534293607576" expanded="true" signature="292:477" ph="{...}" />
+            <marker date="1534293607576" expanded="true" signature="511:545" ph="{...}" />
+            <marker date="1534293607576" expanded="true" signature="573:617" ph="{...}" />
+            <marker date="1534293607576" expanded="true" signature="640:732" ph="{...}" />
+            <marker date="1534293607576" expanded="true" signature="762:790" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ThanosLovedByGod/script/DamageValue.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2745">
+          <caret line="185" column="28" lean-forward="false" selection-start-line="185" selection-start-column="28" selection-end-line="185" selection-end-column="28" />
+          <folding>
+            <marker date="1533905252204" expanded="false" signature="6:78" ph="..." />
+            <marker date="1533905252204" expanded="true" signature="120:5914" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="741:779" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="823:864" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="891:1282" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="916:1083" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="1104:1276" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="1320:1404" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="1430:1448" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="1568:3112" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="1593:1760" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="1781:1934" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="2106:3103" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="3144:3834" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="3219:3828" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="3598:3691" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="3709:3818" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="4028:4254" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="4385:4605" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="4638:4677" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="4683:4726" ph="/* Collisions: ... */" />
+            <marker date="1533905252204" expanded="true" signature="4783:5869" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="4865:5236" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="4910:5226" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="5316:5863" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="5362:5852" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="5455:5684" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ThanosLovedByGod/script/Smorc.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="27" column="18" lean-forward="false" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+          <folding>
+            <marker date="1534294581381" expanded="false" signature="6:78" ph="..." />
+            <marker date="1534294581381" expanded="true" signature="115:5356" ph="{...}" />
+            <marker date="1534294581381" expanded="true" signature="1576:2458" ph="{...}" />
+            <marker date="1534294581381" expanded="true" signature="2099:2398" ph="{...}" />
+            <marker date="1534294581381" expanded="true" signature="2146:2388" ph="/* if ((Time.time - jumpbuffer) &gt; jumpcd) // wenn Zeit seit letztem Sprung den Jumpcd nicht unterschreitet ... */" />
+            <marker date="1534294581381" expanded="true" signature="2475:2834" ph="{...}" />
+            <marker date="1534294581381" expanded="true" signature="2861:3428" ph="{...}" />
+            <marker date="1534294581381" expanded="true" signature="3453:4401" ph="{...}" />
+            <marker date="1534294581381" expanded="true" signature="3866:4326" ph="{...}" />
+            <marker date="1534294581381" expanded="true" signature="4339:4395" ph="{...}" />
+            <marker date="1534294581381" expanded="true" signature="4420:4651" ph="{...}" />
+            <marker date="1534294581381" expanded="true" signature="4466:4645" ph="{...}" />
+            <marker date="1534294581381" expanded="true" signature="4708:4950" ph="{...}" />
+            <marker date="1534294581381" expanded="true" signature="4956:5182" ph="/* private void OnTriggerEnter2D(Collider2D collision) ... */" />
+            <marker date="1534294581381" expanded="true" signature="5218:5354" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tools/Anima2D/Scripts/Editor/SpriteMeshPostprocessor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6300">
+          <caret line="420" column="0" lean-forward="false" selection-start-line="420" selection-start-column="0" selection-end-line="420" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Menucursor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="5" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ThanosLovedByGod/script/OgreAnimationScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1534293607576" expanded="false" signature="6:78" ph="..." />
+            <marker date="1534293607576" expanded="true" signature="128:792" ph="{...}" />
+            <marker date="1534293607576" expanded="true" signature="292:477" ph="{...}" />
+            <marker date="1534293607576" expanded="true" signature="511:545" ph="{...}" />
+            <marker date="1534293607576" expanded="true" signature="573:617" ph="{...}" />
+            <marker date="1534293607576" expanded="true" signature="640:732" ph="{...}" />
+            <marker date="1534293607576" expanded="true" signature="762:790" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ThanosLovedByGod/script/Smorc.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="27" column="18" lean-forward="false" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+          <folding>
+            <marker date="1534294581381" expanded="false" signature="6:78" ph="..." />
+            <marker date="1534294581381" expanded="true" signature="115:5356" ph="{...}" />
+            <marker date="1534294581381" expanded="true" signature="1576:2458" ph="{...}" />
+            <marker date="1534294581381" expanded="true" signature="2099:2398" ph="{...}" />
+            <marker date="1534294581381" expanded="true" signature="2146:2388" ph="/* if ((Time.time - jumpbuffer) &gt; jumpcd) // wenn Zeit seit letztem Sprung den Jumpcd nicht unterschreitet ... */" />
+            <marker date="1534294581381" expanded="true" signature="2475:2834" ph="{...}" />
+            <marker date="1534294581381" expanded="true" signature="2861:3428" ph="{...}" />
+            <marker date="1534294581381" expanded="true" signature="3453:4401" ph="{...}" />
+            <marker date="1534294581381" expanded="true" signature="3866:4326" ph="{...}" />
+            <marker date="1534294581381" expanded="true" signature="4339:4395" ph="{...}" />
+            <marker date="1534294581381" expanded="true" signature="4420:4651" ph="{...}" />
+            <marker date="1534294581381" expanded="true" signature="4466:4645" ph="{...}" />
+            <marker date="1534294581381" expanded="true" signature="4708:4950" ph="{...}" />
+            <marker date="1534294581381" expanded="true" signature="4956:5182" ph="/* private void OnTriggerEnter2D(Collider2D collision) ... */" />
+            <marker date="1534294581381" expanded="true" signature="5218:5354" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ThanosLovedByGod/script/DamageValue.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2745">
+          <caret line="185" column="28" lean-forward="false" selection-start-line="185" selection-start-column="28" selection-end-line="185" selection-end-column="28" />
+          <folding>
+            <marker date="1533905252204" expanded="false" signature="6:78" ph="..." />
+            <marker date="1533905252204" expanded="true" signature="120:5914" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="741:779" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="823:864" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="891:1282" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="916:1083" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="1104:1276" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="1320:1404" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="1430:1448" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="1568:3112" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="1593:1760" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="1781:1934" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="2106:3103" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="3144:3834" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="3219:3828" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="3598:3691" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="3709:3818" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="4028:4254" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="4385:4605" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="4638:4677" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="4683:4726" ph="/* Collisions: ... */" />
+            <marker date="1533905252204" expanded="true" signature="4783:5869" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="4865:5236" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="4910:5226" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="5316:5863" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="5362:5852" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="5455:5684" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Menucursor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="5" lean-forward="false" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tools/Anima2D/Scripts/SpriteMeshAnimation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tools/Anima2D/Scripts/SpriteMeshInstance.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4320">
+          <caret line="288" column="26" lean-forward="false" selection-start-line="288" selection-start-column="26" selection-end-line="288" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tools/Anima2D/Scripts/Editor/TextureEditorWindow.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tools/Anima2D/Scripts/SpriteMeshAnimation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tools/Anima2D/Scripts/SpriteMeshInstance.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4320">
+          <caret line="288" column="26" lean-forward="false" selection-start-line="288" selection-start-column="26" selection-end-line="288" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ThanosLovedByGod/script/Smorc.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="87" column="38" lean-forward="true" selection-start-line="87" selection-start-column="38" selection-end-line="87" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ThanosLovedByGod/script/Ogre_Atack.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="34" column="61" lean-forward="false" selection-start-line="34" selection-start-column="61" selection-end-line="34" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ThanosLovedByGod/script/BowRotateScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ThanosLovedByGod/script/BowRotateScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ThanosLovedByGod/script/EnemyStats.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1215">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ThanosLovedByGod/script/Ogre_Atack.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="34" column="61" lean-forward="false" selection-start-line="34" selection-start-column="61" selection-end-line="34" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tools/Anima2D/Scripts/SpriteMeshInstance.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4320">
+          <caret line="288" column="26" lean-forward="false" selection-start-line="288" selection-start-column="26" selection-end-line="288" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tools/Anima2D/Scripts/SpriteMeshAnimation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tools/Anima2D/Scripts/Editor/TextureEditorWindow.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Menucursor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="5" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ThanosLovedByGod/script/OgreAnimationScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1534293607576" expanded="false" signature="6:78" ph="..." />
+            <marker date="1534293607576" expanded="true" signature="128:792" ph="{...}" />
+            <marker date="1534293607576" expanded="true" signature="292:477" ph="{...}" />
+            <marker date="1534293607576" expanded="true" signature="511:545" ph="{...}" />
+            <marker date="1534293607576" expanded="true" signature="573:617" ph="{...}" />
+            <marker date="1534293607576" expanded="true" signature="640:732" ph="{...}" />
+            <marker date="1534293607576" expanded="true" signature="762:790" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ThanosLovedByGod/script/Smorc.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="27" column="18" lean-forward="false" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+          <folding>
+            <marker date="1534294581381" expanded="false" signature="6:78" ph="..." />
+            <marker date="1534294581381" expanded="true" signature="115:5356" ph="{...}" />
+            <marker date="1534294581381" expanded="true" signature="1576:2458" ph="{...}" />
+            <marker date="1534294581381" expanded="true" signature="2099:2398" ph="{...}" />
+            <marker date="1534294581381" expanded="true" signature="2146:2388" ph="/* if ((Time.time - jumpbuffer) &gt; jumpcd) // wenn Zeit seit letztem Sprung den Jumpcd nicht unterschreitet ... */" />
+            <marker date="1534294581381" expanded="true" signature="2475:2834" ph="{...}" />
+            <marker date="1534294581381" expanded="true" signature="2861:3428" ph="{...}" />
+            <marker date="1534294581381" expanded="true" signature="3453:4401" ph="{...}" />
+            <marker date="1534294581381" expanded="true" signature="3866:4326" ph="{...}" />
+            <marker date="1534294581381" expanded="true" signature="4339:4395" ph="{...}" />
+            <marker date="1534294581381" expanded="true" signature="4420:4651" ph="{...}" />
+            <marker date="1534294581381" expanded="true" signature="4466:4645" ph="{...}" />
+            <marker date="1534294581381" expanded="true" signature="4708:4950" ph="{...}" />
+            <marker date="1534294581381" expanded="true" signature="4956:5182" ph="/* private void OnTriggerEnter2D(Collider2D collision) ... */" />
+            <marker date="1534294581381" expanded="true" signature="5218:5354" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ThanosLovedByGod/script/DamageValue.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2745">
+          <caret line="185" column="28" lean-forward="false" selection-start-line="185" selection-start-column="28" selection-end-line="185" selection-end-column="28" />
+          <folding>
+            <marker date="1533905252204" expanded="false" signature="6:78" ph="..." />
+            <marker date="1533905252204" expanded="true" signature="120:5914" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="741:779" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="823:864" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="891:1282" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="916:1083" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="1104:1276" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="1320:1404" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="1430:1448" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="1568:3112" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="1593:1760" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="1781:1934" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="2106:3103" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="3144:3834" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="3219:3828" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="3598:3691" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="3709:3818" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="4028:4254" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="4385:4605" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="4638:4677" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="4683:4726" ph="/* Collisions: ... */" />
+            <marker date="1533905252204" expanded="true" signature="4783:5869" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="4865:5236" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="4910:5226" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="5316:5863" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="5362:5852" ph="{...}" />
+            <marker date="1533905252204" expanded="true" signature="5455:5684" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tools/Anima2D/Scripts/Editor/SpriteMeshPostprocessor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="420" column="0" lean-forward="false" selection-start-line="420" selection-start-column="0" selection-end-line="420" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

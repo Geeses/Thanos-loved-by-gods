@@ -148,6 +148,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   enemy: {fileID: 0}
   AO: {fileID: 11400000, guid: 6102c976072317c40bdc0a7bfb33bcb3, type: 2}
+  DamageAmountWithoutEnemy: 0
   CooldownTime: 3
 --- !u!114 &114934853587384696
 MonoBehaviour:
@@ -204,7 +205,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 1246188541
-  m_SortingLayer: 3
+  m_SortingLayer: 2
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: e64ec5cf5fdd96c4a8580239db8c9e12, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}

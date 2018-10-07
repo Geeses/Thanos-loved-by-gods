@@ -11,5 +11,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6f9ac89b7b7d5a24f83e25e7ac193f2d, type: 3}
   m_Name: Menu
   m_EditorClassIdentifier: 
-  cursorspeed: 10
+  cursorspeed: 500
   progress: 0
