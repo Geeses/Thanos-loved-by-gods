@@ -22170,36 +22170,6 @@ Prefab:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 0}
-    - target: {fileID: 137881621010893110, guid: 915dbd9091709694b845e09de86a18fe,
-        type: 2}
-      propertyPath: m_Mesh
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 137881621010893110, guid: 915dbd9091709694b845e09de86a18fe,
-        type: 2}
-      propertyPath: m_SortingLayerID
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 137969595486504736, guid: 915dbd9091709694b845e09de86a18fe,
-        type: 2}
-      propertyPath: m_Mesh
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 137971728983935720, guid: 915dbd9091709694b845e09de86a18fe,
-        type: 2}
-      propertyPath: m_Mesh
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 137971728983935720, guid: 915dbd9091709694b845e09de86a18fe,
-        type: 2}
-      propertyPath: m_SortingLayerID
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 137969595486504736, guid: 915dbd9091709694b845e09de86a18fe,
-        type: 2}
-      propertyPath: m_SortingLayerID
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 915dbd9091709694b845e09de86a18fe, type: 2}
   m_IsPrefabParent: 0
