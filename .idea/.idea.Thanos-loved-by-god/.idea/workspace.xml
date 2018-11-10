@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6b4d579f-b28b-4d9b-a33d-b21934dcc34a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Thanos-loved-by-god/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Thanos-loved-by-god/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThanosLovedByGod/Prefabs/Enemy/Ogre_New.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ThanosLovedByGod/Prefabs/Enemy/Ogre_New.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Thanos-loved-by-god/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Thanos-loved-by-god/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ThanosLovedByGod/Scenes/Final Final/tutorial(1)(1).unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ThanosLovedByGod/Scenes/Final Final/tutorial(1)(1).unity" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +16,7 @@
     <session id="1114513015">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.7" value="2" />
           <entry key="project.opened" value="2" />
         </counts>
@@ -28,6 +29,16 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="C#" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="98" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="98" />
         </counts>
       </usages-collector>
     </session>
@@ -72,11 +83,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/ThanosLovedByGod/script/Smorc.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
-              <caret line="72" column="15" lean-forward="true" selection-start-line="72" selection-start-column="15" selection-end-line="72" selection-end-column="15" />
+            <state relative-caret-position="432">
+              <caret line="74" column="5" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
               <folding>
                 <marker date="1534294581381" expanded="false" signature="6:78" ph="..." />
                 <marker date="1534294581381" expanded="true" signature="115:5356" ph="{...}" />
@@ -98,19 +109,21 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/ThanosLovedByGod/script/OgreAnimationScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="29" column="43" lean-forward="true" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+            <state relative-caret-position="690">
+              <caret line="48" column="29" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="29" />
               <folding>
-                <marker date="1534293607576" expanded="false" signature="6:78" ph="..." />
-                <marker date="1534293607576" expanded="true" signature="128:792" ph="{...}" />
-                <marker date="1534293607576" expanded="true" signature="292:477" ph="{...}" />
-                <marker date="1534293607576" expanded="true" signature="511:545" ph="{...}" />
-                <marker date="1534293607576" expanded="true" signature="573:617" ph="{...}" />
-                <marker date="1534293607576" expanded="true" signature="640:732" ph="{...}" />
-                <marker date="1534293607576" expanded="true" signature="762:790" ph="{...}" />
+                <marker date="1541871737491" expanded="false" signature="6:78" ph="..." />
+                <marker date="1541871737491" expanded="true" signature="128:907" ph="{...}" />
+                <marker date="1541871737491" expanded="true" signature="292:477" ph="{...}" />
+                <marker date="1541871737491" expanded="true" signature="511:545" ph="{...}" />
+                <marker date="1541871737491" expanded="true" signature="573:617" ph="{...}" />
+                <marker date="1541871737491" expanded="true" signature="640:732" ph="{...}" />
+                <marker date="1541871737491" expanded="true" signature="762:790" ph="{...}" />
+                <marker date="1541871737491" expanded="true" signature="817:846" ph="{...}" />
+                <marker date="1541871737491" expanded="true" signature="877:905" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -125,6 +138,13 @@
     <setting file="file://$PROJECT_DIR$/Assets/ThanosLovedByGod/script/OgreAnimationScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ThanosLovedByGod/script/DamageValue.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ThanosLovedByGod/script/Smorc.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/ThanosLovedByGod/script/OgreAnimationScript.cs" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -195,12 +215,12 @@
       <option name="presentableId" value="Default" />
       <updated>1538913082300</updated>
       <workItem from="1538913088148" duration="1148000" />
-      <workItem from="1541871311781" duration="279000" />
+      <workItem from="1541871311781" duration="1027000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1427000" />
+    <option name="totallyTimeSpent" value="2175000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -213,7 +233,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -296,26 +315,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/ThanosLovedByGod/script/OgreAnimationScript.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="29" column="43" lean-forward="true" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
-          <folding>
-            <marker date="1534293607576" expanded="false" signature="6:78" ph="..." />
-            <marker date="1534293607576" expanded="true" signature="128:792" ph="{...}" />
-            <marker date="1534293607576" expanded="true" signature="292:477" ph="{...}" />
-            <marker date="1534293607576" expanded="true" signature="511:545" ph="{...}" />
-            <marker date="1534293607576" expanded="true" signature="573:617" ph="{...}" />
-            <marker date="1534293607576" expanded="true" signature="640:732" ph="{...}" />
-            <marker date="1534293607576" expanded="true" signature="762:790" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/ThanosLovedByGod/script/Smorc.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="72" column="15" lean-forward="true" selection-start-line="72" selection-start-column="15" selection-end-line="72" selection-end-column="15" />
+        <state relative-caret-position="432">
+          <caret line="74" column="5" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
           <folding>
             <marker date="1534294581381" expanded="false" signature="6:78" ph="..." />
             <marker date="1534294581381" expanded="true" signature="115:5356" ph="{...}" />
@@ -332,6 +335,24 @@
             <marker date="1534294581381" expanded="true" signature="4708:4950" ph="{...}" />
             <marker date="1534294581381" expanded="true" signature="4956:5182" ph="/* private void OnTriggerEnter2D(Collider2D collision) ... */" />
             <marker date="1534294581381" expanded="true" signature="5218:5354" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ThanosLovedByGod/script/OgreAnimationScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="48" column="29" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="29" />
+          <folding>
+            <marker date="1541871737491" expanded="false" signature="6:78" ph="..." />
+            <marker date="1541871737491" expanded="true" signature="128:907" ph="{...}" />
+            <marker date="1541871737491" expanded="true" signature="292:477" ph="{...}" />
+            <marker date="1541871737491" expanded="true" signature="511:545" ph="{...}" />
+            <marker date="1541871737491" expanded="true" signature="573:617" ph="{...}" />
+            <marker date="1541871737491" expanded="true" signature="640:732" ph="{...}" />
+            <marker date="1541871737491" expanded="true" signature="762:790" ph="{...}" />
+            <marker date="1541871737491" expanded="true" signature="817:846" ph="{...}" />
+            <marker date="1541871737491" expanded="true" signature="877:905" ph="{...}" />
           </folding>
         </state>
       </provider>
