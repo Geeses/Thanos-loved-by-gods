@@ -40,4 +40,12 @@ public class OgreAnimationScript : MonoBehaviour
 	{
 		es.ogreDisappear();
 	}
+
+	public void exhausted() {
+		smorc.enabled = false;
+	}
+
+	public void endExhaustion() {
+		smorc.enabled = true;
+	}
 }

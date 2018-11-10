@@ -4,19 +4,11 @@
     <e p="C:\Users\Andre\.Rider2018.2\system\extResources" t="IncludeRecursive" />
     <e p="C:\Users\Andre\.Rider2018.2\system\resharper-host\Local\Transient\ReSharperHost\v182\SolutionCaches\_Thanos-loved-by-god.-868379986.00" t="ExcludeRecursive" />
     <e p="S:\UnityProjects\Thanos-loved-by-god" t="IncludeRecursive">
-      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets\FPSIndicator.cs" t="Include" />
       <e p="Assets\Menucursor.cs" t="Include" />
       <e p="Assets\OptionsMenu.cs" t="Include" />
-      <e p="Assets\Plugins" t="Include">
-        <e p="Editor" t="Include">
-          <e p="JetBrains" t="Include">
-            <e p="Unity3DRider.cs" t="Include" />
-          </e>
-        </e>
-      </e>
       <e p="Assets\ShaderForge" t="Include">
         <e p="Editor" t="Include">
           <e p="InternalResources" t="Include">
