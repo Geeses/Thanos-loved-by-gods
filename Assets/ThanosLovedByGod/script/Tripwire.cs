@@ -51,6 +51,9 @@ public class Tripwire : MonoBehaviour
 
                 }
             }
+            
+            gameObject.GetComponent<CapsuleCollider2D>().enabled = false;
         }
+
     }
 }

@@ -4,7 +4,12 @@
     <list default="true" id="6b4d579f-b28b-4d9b-a33d-b21934dcc34a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Thanos-loved-by-god/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Thanos-loved-by-god/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Thanos-loved-by-god/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Thanos-loved-by-god/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ThanosLovedByGod/Materials/Flame.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ThanosLovedByGod/Materials/Flame.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ThanosLovedByGod/Materials/Flame.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ThanosLovedByGod/Materials/Flame.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ThanosLovedByGod/Prefabs/Activator/Tripwire/Tripwire.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ThanosLovedByGod/Prefabs/Activator/Tripwire/Tripwire.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ThanosLovedByGod/Scenes/Final Final/WaldLevel(1)(1).unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ThanosLovedByGod/Scenes/Final Final/WaldLevel(1)(1).unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ThanosLovedByGod/Scenes/Final Final/tutorial(1)(1).unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ThanosLovedByGod/Scenes/Final Final/tutorial(1)(1).unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ThanosLovedByGod/script/Tripwire.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ThanosLovedByGod/script/Tripwire.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,29 +21,38 @@
     <session id="1114513015">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.7" value="2" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="cginc" value="3" />
           <entry key="cs" value="1" />
+          <entry key="shader" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="C#" value="1" />
+          <entry key="Cg" value="3" />
+          <entry key="ShaderLab" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="98" />
+          <entry key="cginc" value="30" />
+          <entry key="cs" value="176" />
+          <entry key="shader" value="54" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="98" />
+          <entry key="C#" value="176" />
+          <entry key="Cg" value="30" />
+          <entry key="ShaderLab" value="54" />
         </counts>
       </usages-collector>
     </session>
@@ -86,7 +100,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/ThanosLovedByGod/script/Smorc.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
+            <state relative-caret-position="1080">
               <caret line="74" column="5" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
               <folding>
                 <marker date="1534294581381" expanded="false" signature="6:78" ph="..." />
@@ -109,7 +123,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/ThanosLovedByGod/script/OgreAnimationScript.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="690">
@@ -129,6 +143,42 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Gradient.shader">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+              <folding>
+                <marker date="1541957492370" expanded="true" signature="26:802" ph="{...}" />
+                <marker date="1541957492370" expanded="true" signature="41:85" ph="{...}" />
+                <marker date="1541957492370" expanded="true" signature="98:800" ph="{...}" />
+                <marker date="1541957492370" expanded="true" signature="153:797" ph="{...}" />
+                <marker date="1541957492370" expanded="true" signature="167:788" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/ThanosLovedByGod/script/Tripwire.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="780">
+              <caret line="55" column="60" selection-start-line="55" selection-start-column="60" selection-end-line="55" selection-end-column="60" />
+              <folding>
+                <marker date="1542046951339" expanded="false" signature="6:93" ph="..." />
+                <marker date="1542046951339" expanded="true" signature="132:1684" ph="{...}" />
+                <marker date="1542046951339" expanded="true" signature="399:599" ph="{...}" />
+                <marker date="1542046951339" expanded="true" signature="691:1682" ph="{...}" />
+                <marker date="1542046951339" expanded="true" signature="825:1614" ph="{...}" />
+                <marker date="1542046951339" expanded="true" signature="1081:1590" ph="{...}" />
+                <marker date="1542046951339" expanded="true" signature="1199:1318" ph="{...}" />
+                <marker date="1542046951339" expanded="true" signature="1365:1456" ph="{...}" />
+                <marker date="1542046951339" expanded="true" signature="1481:1571" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -136,13 +186,20 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/ThanosLovedByGod/script/OgreAnimationScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThanosLovedByGod/script/Tripwire.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ThanosLovedByGod/script/DamageValue.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ThanosLovedByGod/script/Smorc.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Gradient.shader" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/ThanosLovedByGod/script/OgreAnimationScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/SpritesGradient.shader" />
+        <option value="$PROJECT_DIR$/Assets/GradientCG.cginc" />
+        <option value="$PROJECT_DIR$/Assets/Gradient 1.shader" />
+        <option value="$PROJECT_DIR$/Assets/Gradient.shader" />
+        <option value="$PROJECT_DIR$/Assets/ThanosLovedByGod/script/Tripwire.cs" />
       </list>
     </option>
   </component>
@@ -163,11 +220,11 @@
     </navigator>
     <panes>
       <pane id="FileSystemExplorer" />
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
       </pane>
     </panes>
   </component>
@@ -216,11 +273,13 @@
       <updated>1538913082300</updated>
       <workItem from="1538913088148" duration="1148000" />
       <workItem from="1541871311781" duration="1027000" />
+      <workItem from="1541955986707" duration="2104000" />
+      <workItem from="1542045975342" duration="976000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2175000" />
+    <option name="totallyTimeSpent" value="5255000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -233,11 +292,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1652452" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Unity" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -252,6 +311,7 @@
       <window_info anchor="bottom" id="Unit Tests" order="11" />
       <window_info anchor="bottom" id="Terminal" order="12" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Unity" order="14" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -279,6 +339,10 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Unitys.cginc" />
+    <entry file="file://$PROJECT_DIR$/Assets/SpritesGradient.shader" />
+    <entry file="file://$PROJECT_DIR$/Assets/Gradient 1.shader" />
+    <entry file="file://$PROJECT_DIR$/Assets/GradientCG.cginc" />
     <entry file="file://$PROJECT_DIR$/Assets/ThanosLovedByGod/script/DamageValue.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2790">
@@ -317,7 +381,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/ThanosLovedByGod/script/Smorc.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
+        <state relative-caret-position="1080">
           <caret line="74" column="5" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
           <folding>
             <marker date="1534294581381" expanded="false" signature="6:78" ph="..." />
@@ -353,6 +417,38 @@
             <marker date="1541871737491" expanded="true" signature="762:790" ph="{...}" />
             <marker date="1541871737491" expanded="true" signature="817:846" ph="{...}" />
             <marker date="1541871737491" expanded="true" signature="877:905" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Gradient.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+          <folding>
+            <marker date="1541957492370" expanded="true" signature="26:802" ph="{...}" />
+            <marker date="1541957492370" expanded="true" signature="41:85" ph="{...}" />
+            <marker date="1541957492370" expanded="true" signature="98:800" ph="{...}" />
+            <marker date="1541957492370" expanded="true" signature="153:797" ph="{...}" />
+            <marker date="1541957492370" expanded="true" signature="167:788" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ThanosLovedByGod/script/Tripwire.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="55" column="60" selection-start-line="55" selection-start-column="60" selection-end-line="55" selection-end-column="60" />
+          <folding>
+            <marker date="1542046951339" expanded="false" signature="6:93" ph="..." />
+            <marker date="1542046951339" expanded="true" signature="132:1684" ph="{...}" />
+            <marker date="1542046951339" expanded="true" signature="399:599" ph="{...}" />
+            <marker date="1542046951339" expanded="true" signature="691:1682" ph="{...}" />
+            <marker date="1542046951339" expanded="true" signature="825:1614" ph="{...}" />
+            <marker date="1542046951339" expanded="true" signature="1081:1590" ph="{...}" />
+            <marker date="1542046951339" expanded="true" signature="1199:1318" ph="{...}" />
+            <marker date="1542046951339" expanded="true" signature="1365:1456" ph="{...}" />
+            <marker date="1542046951339" expanded="true" signature="1481:1571" ph="{...}" />
           </folding>
         </state>
       </provider>

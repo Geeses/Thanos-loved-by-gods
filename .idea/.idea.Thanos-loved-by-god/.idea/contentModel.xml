@@ -7,6 +7,7 @@
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets\FPSIndicator.cs" t="Include" />
+      <e p="Assets\Gradient.shader" t="Include" />
       <e p="Assets\Menucursor.cs" t="Include" />
       <e p="Assets\OptionsMenu.cs" t="Include" />
       <e p="Assets\ProCore" t="Include">
@@ -476,6 +477,7 @@
         <e p="Readme.txt" t="Include" />
       </e>
       <e p="Assets\ThanosLovedByGod" t="Include">
+        <e p="Gradient.shader" t="Include" />
         <e p="Materials" t="Include">
           <e p="Flame.shader" t="Include" />
         </e>
