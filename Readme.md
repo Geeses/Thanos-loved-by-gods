@@ -1,6 +1,6 @@
 
-#### Thanos, loved by God
-## Summary
+# Thanos, loved by God
+### Summary
 It´s a game started by 13 students at the University of Applied Sciences in Mittweida in Germany. The original repository can be found here:
 https://bitbucket.org/Saki-chan/gdd2/src/master/
 This repository contains additional work, and changes made by me (Andre Spittel) and my friends Albina Hironymus (Art) and Oliver Wobst (Animation).
